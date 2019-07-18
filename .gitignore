@@ -59,3 +59,15 @@ typings/
 
 # next.js build output
 .next
+.idea/inspectionProfiles/
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/ss-loading.iml
+.idea/workspace.xml
+.idea/typescript-compiler.xml
+.idea/watcherTasks.xml
+assets/index.css.map
+build/
+package-lock.json
+package/
